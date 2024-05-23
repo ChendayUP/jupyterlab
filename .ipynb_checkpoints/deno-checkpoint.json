@@ -9,6 +9,7 @@
     "ml-distance": "npm:ml-distance",
     "@langchain/anthropic": "npm:@langchain/anthropic",
     "@langchain/community": "npm:@langchain/community",
-    "langchain/vectorstores/memory": "npm:langchain/vectorstores/memory"
+    "langchain/vectorstores/memory": "npm:langchain/vectorstores/memory",
+      "@langchain/google-genai": "npm:@langchain/google-genai"
   }
 }
